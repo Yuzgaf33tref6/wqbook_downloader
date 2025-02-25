@@ -7,6 +7,10 @@
 # <strong><span style="color: red;">在此大字说明，此工具并非破解，必须自行购买获得阅读使用的权力才可使用</span></strong>
 ---
 
+![GitHub Stars](https://img.shields.io/github/stars/vueuse/vueuse?style=social)
+![Python](https://img.shields.io/badge/Python-v%203.12-blue)
+![pyautogui](https://img.shields.io/badge/pyautogui-/-blue)
+![wqbook](https://img.shields.io/badge/wqbook-必须授权-green)
 
 ## 开发背景
 针对老旧设备运行官方阅读器存在的性能问题，本工具提供轻量级本地化阅读方案，帮助低配置硬件用户实现：
